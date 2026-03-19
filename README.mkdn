@@ -1,9 +1,7 @@
-![alt text][logo]
 
-  [logo]:https://crdroid.net/img/logo.png ""
-* Below features are as of 31 January, 2026 in the crDroid Android source.
+* Below features are as of March, 2026 in the crDroid Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
-
+* Features marked with [-] are subject to removal before September of 2026. If a feature with a [-] indicator has {} around some text, only that specific part will be removed.
 Translations
 ----------
 You can contribute to the ROM by submitting translations with few easy clicks  
@@ -12,11 +10,11 @@ You can contribute to the ROM by submitting translations with few easy clicks
 General
 ----------
 * Always latest Android 16.x
-* crDroid Settings - Our own chamber of secrets with below customization settings
+* CharaROM Settings - Our own chamber of secrets with below customization settings
 * OTA for officially supported devices
-* crDroid Home - Revamped and customized launcher with Google Now integration
+* CharaROM Hub - Revamped and customized launcher with {Google Now integration} [-]
 * Updated libraries for better performance and security
-* Many under the hood changes for best exeperience!
+* Many under the hood changes for best experience!
 
 Status Bar
 ----------
@@ -184,12 +182,12 @@ Sound
 Misc
 ----------
 * Game space
-* Google Play Integrity spoof toggle
+* Google Play Integrity spoof toggle [-]
 * Autofix VBMeta detection
-* Keybox attestation override
-* Disable forcing strong integrity toggle
+* Keybox attestation override [-]
+* Disable forcing strong integrity toggle [-]
 * Unlock higher FPS in game toggle
-* Unlimited Google photos toggle
+* Unlimited Google photos toggle [-]
 * Netflix spoof (used for HDR)
 * Allow app downgrade toggle
 * Sidebar
@@ -200,15 +198,14 @@ Misc
 * Pocket detection - prevents device interaction when inside pocket
 * Floating rotate button toggle
 
-About crDroid
+About CharaROM
 ----------
 * Current changelog
 * Official website
 * Translations
-* Share crDroid
+* Share CharaROM
 * Support us
 * Github
-* crDroid Community on Telegram
-* Telegram Updates channel
+* CharaROM Community on Telegram
 * Sponsors
-* Updates (directly via OTA)
+* Updates (directly via OTA coming soon)
