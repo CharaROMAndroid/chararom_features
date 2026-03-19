@@ -1,5 +1,5 @@
 
-* Below features are as of March, 2026 in the crDroid Android source.
+* Below features are as of 18 March, 2026 in the CharaROM Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 * Features marked with [-] are subject to removal before September of 2026. If a feature with a [-] indicator has {} around some text, only that specific part will be removed.
 Translations
