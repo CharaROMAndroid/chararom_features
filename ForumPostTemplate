@@ -1,23 +1,21 @@
 <!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
 
-[CENTER][IMG]http://i.imgur.com/BE3pE0l.png[/IMG][/CENTER]
-
 [CODE]*** Disclaimer
 I am not responsible for any damage you made to your device
 You have been warned[/CODE]
 
 [SIZE="4"]
-crDroid is designed to increase performance and reliability over stock Android for your device also attempting to bringing many of the best features existent today
+CharaROM is designed to increase performance, security, and reliability over stock Android for your device also attempting to bringing many of the best features existent today
 [/SIZE]
 
 [SIZE="5"]Features:[/SIZE]
-[URL="https://github.com/crdroidandroid/crdroid_features/blob/16.0/README.mkdn"]https://github.com/crdroidandroid/crdroid_features/blob/16.0/README.mkdn[/URL]
+[URL="https://github.com/chararomandroid/chararom_features/blob/hershey/README.mkdn"]https://github.com/chararomandroid/chararom_features/blob/hershey/README.mkdn[/URL]
 
 [SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
-Install steps can be found on our device page [URL="https://crdroid.net/<device codename>/12/install"]https://crdroid.net/<device codename>/12/install[/URL]
+Please follow the relevant installation instructions for the LineageOS or crDroid build for your device, unless specified otherwise by the maintainer
 
 [SIZE="5"]Sources:[/SIZE]
-[B]ROM:[/B] [URL="https://github.com/crdroidandroid"]https://github.com/crdroidandroid[/URL]
+[B]ROM:[/B] [URL="https://github.com/chararomandroid"]https://github.com/chararomandroid[/URL]
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
 
 [SIZE="5"]Download:[/SIZE]
