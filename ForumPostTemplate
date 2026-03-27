@@ -1,33 +1,45 @@
 <!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
-
 [SIZE="4"]
-Greetings. Welcome to CharaROM.
+Greetings.
+Welcome to CharaROM.
 
-[CODE]*** Your warranty is now void... but I'm sure you already know that.
-As with any ROM, we're not responsible for any damage to your device, data, reputation, or career that stems as a result of you using this ROM. Meaning, don't blame us if your alarm clock app fails.[/CODE]
+[CODE]*** Your warranty is now void... but let's be honest, you already knew that.
+We are NOT responsible for any damage to your device, data, reputation, sanity, or career.
+If your alarm doesn't go off and you get fired, that's on you, not us. Deal with it.[/CODE]
 
-[SIZE="4"]
-CharaROM is designed to increase performance, security, and reliability over stock Android for your device also attempting to bringing many of the best features existent today, just like how crDroid does it. However, unlike crDroid, we tend to be a bit more flavorful. Expect sarcasm and confusion. Or don't, it's your choice to make.
+CharaROM is designed to improve performance, stability, and security over stock Android, while bringing in a wide range of modern features—much like crDroid.
+
+The difference?
+
+We have personality.
+
+Expect sarcasm.
+Expect chaos.
+Expect things to work... most of the time.
+
+Or don't. Your expectations are your problem, not ours.
 [/SIZE]
 
 [SIZE="5"]Features:[/SIZE]
 [URL="https://github.com/chararomandroid/chararom_features/blob/hershey/README.mkdn"]https://github.com/chararomandroid/chararom_features/blob/hershey/README.mkdn[/URL]
 
 [SIZE="5"][B]Flashing Instructions:[/B][/SIZE]
-Please follow the relevant installation instructions for the LineageOS or crDroid build for your device, unless specified otherwise by the maintainer
+Follow the standard installation instructions for LineageOS or crDroid for your device, unless your maintainer says otherwise.
+If you ignore instructions and brick your device, refer back to the disclaimer above.
 
 [SIZE="5"]Sources:[/SIZE]
 [B]ROM:[/B] [URL="https://github.com/chararomandroid"]https://github.com/chararomandroid[/URL]
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
 
 [SIZE="5"]Download:[/SIZE]
-[B]ROM[/B] [URL="https://github.com/chararomandroid/builds/releases"]https://github.com/chararomandroid/build/releases[/URL] 
+[B]ROM:[/B] [URL="https://github.com/chararomandroid/build/releases"]https://github.com/chararomandroid/build/releases[/URL] 
 [B]Changelog:[/B] [URL="https://github.com/chararomandroid/builds/<device_codename>.md"]https://github.com/chararomandroid/builds/<device_codename>.md[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
-<!-- list here -->
+<!-- If something is broken, it's probably listed here. Probably. -->
 
-
-[SIZE="3"][URL="https://github.com/chararomandroid/"]Visit our official GitHub @CharaROMAndroid[/URL]
-[URL="https://t.me/bunnypaddev"]CharaROM General Development Chat[/URL]
-[URL="https://crdroid.net/donate"]Donate to help the upstream team pay server costs[/URL][/SIZE]
+[SIZE="3"]
+[URL="https://github.com/chararomandroid/"]GitHub: CharaROMAndroid[/URL]
+[URL="https://t.me/bunnypaddev"]Telegram: Development Chat[/URL]
+[URL="https://crdroid.net/donate"]Support upstream (crDroid)[/URL]
+[/SIZE]
