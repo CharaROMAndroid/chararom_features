@@ -7,7 +7,7 @@ Welcome to CharaROM.
 We are NOT responsible for any damage to your device, data, reputation, sanity, or career.
 If your alarm doesn't go off and you get fired, that's on you, not us. Deal with it.[/CODE]
 
-CharaROM is designed to improve performance, stability, and security over stock Android, while bringing in a wide range of modern features—much like crDroid.
+CharaROM is designed to improve performance, stability, and security over stock Android, while bringing in a wide range of modern features - much like crDroid.
 
 The difference?
 
@@ -32,8 +32,8 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
 
 [SIZE="5"]Download:[/SIZE]
-[B]ROM:[/B] [URL="https://github.com/chararomandroid/build/releases"]https://github.com/chararomandroid/build/releases[/URL] 
-[B]Changelog:[/B] [URL="https://github.com/chararomandroid/builds/<device_codename>.md"]https://github.com/chararomandroid/builds/<device_codename>.md[/URL]
+[B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] 
+[B]Changelog:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
 <!-- If something is broken, it's probably listed here. Probably. -->
