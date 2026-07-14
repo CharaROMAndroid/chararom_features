@@ -1,18 +1,16 @@
 
-* Below features are as of 18 March, 2026 in the CharaROM Android source.
+* Below features are as of 14 July, 2026 in the CharaROM Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
-* Features marked with [-] are subject to removal before September of 2026. If a feature with a [-] indicator has {} around some text, only that specific part will be removed.
 Translations
 ----------
-You can contribute to the ROM by submitting translations with few easy clicks  
-[Help translate](https://crdroid.net/translations)
+We currently accept translations only via Telegram, since we don't have the infrastructure to accept it elsewhere. Most of our translations, however, come from crDroid.
 
 General
 ----------
 * Always latest Android 16.x
 * CharaROM Settings - Our own chamber of secrets with below customization settings
 * OTA for officially supported devices
-* CharaROM Hub - Revamped and customized launcher with {Google Now integration} [-]
+* CharaROM Hub - Revamped and customized launcher with Google Now integration
 * Updated libraries for better performance and security
 * Many under the hood changes for best experience!
 
@@ -148,6 +146,7 @@ User Interface
   * Tint backgronud
 * Font styles
 * Icon shape
+* Boot Animation Changer
 
 Notifications
 ----------
@@ -182,15 +181,11 @@ Sound
 Misc
 ----------
 * Game space
-* Google Play Integrity spoof toggle [-]
-* Autofix VBMeta detection
-* Keybox attestation override [-]
-* Disable forcing strong integrity toggle [-]
+* Built-in Play Integrity Fix and TrickyStore
 * Unlock higher FPS in game toggle
-* Unlimited Google photos toggle [-]
+* Unlimited Google photos toggle
 * Netflix spoof (used for HDR)
 * Allow app downgrade toggle
-* Sidebar
 * Three finger swipe action
 * Sensor block per-package
   * Sensor block toggle
@@ -200,12 +195,9 @@ Misc
 
 About CharaROM
 ----------
-* Current changelog
-* Official website
-* Translations
-* Share CharaROM
-* Support us
-* Github
-* CharaROM Community on Telegram
-* Sponsors
-* Updates (directly via OTA coming soon)
+* [Official website](https://chararom.xyz) [Work in progress]
+* [Share CharaROM](https://github.com/CharaROMAndroid)
+* [Support us](https://paypal.me/bunnypad)
+* [Github](https://github.com/CharaROMAndroid)
+* [CharaROM Community on Telegram](https://telegram.me/bunnypaddev)
+* [Updates](https://github.com/CharaROMAndroid/android_vendor_CharaOTA/releases)
