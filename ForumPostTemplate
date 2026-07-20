@@ -12,12 +12,11 @@ CharaROM is designed to improve performance, stability, and security over stock 
 The difference?
 
 We have personality.
-
-Expect sarcasm.
-Expect chaos.
-Expect things to work... most of the time.
-
-Or don't. Your expectations are your problem, not ours.
+We have RestlessOS and GrapheneOS security and privacy enhancements
+We have a boot animation changer (thanks, EvolutionX and RisingOS/Rising Revived!)
+We have F-Droid Privileged Extension built-in
+We have enhanced user choice
+We have... mentions of a Chara Fumo? (do those even exist?)
 [/SIZE]
 
 [SIZE="5"]Features:[/SIZE]
@@ -33,7 +32,7 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 
 [SIZE="5"]Download:[/SIZE]
 [B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] 
-[B]Changelog:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md[/URL]
+[B]Changelog:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
 <!-- If something is broken, it's probably listed here. Probably. -->
