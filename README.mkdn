@@ -8,11 +8,12 @@ We currently accept translations only via Telegram, since we don't have the infr
 General
 ----------
 * Always latest Android 16.x
-* CharaROM Settings - Our own chamber of secrets with below customization settings
+* CharaROM Tweaks - Our own chamber of chaos with below customization settings
 * OTA for officially supported devices
 * CharaROM Hub - Revamped and customized launcher with Google Now integration
 * Updated libraries for better performance and security
 * Many under the hood changes for best experience!
+* Various Security and Privacy enhancements from GrapheneOS and RestlessOS
 
 Status Bar
 ----------
