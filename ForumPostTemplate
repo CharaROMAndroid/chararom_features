@@ -1,4 +1,4 @@
-<!---This is a forum post template for manitainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
+<!---This is a forum post template for maintainers to use on XDA, or whatever forum you post your build(s) on. You can copy/paste what is here and edit as necessary for your purposes--> 
 [SIZE="4"]
 Greetings.
 Welcome to CharaROM.
@@ -42,7 +42,7 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 
 [SIZE="5"]Download:[/SIZE]
 [B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] 
-[B]Changelog:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.md[/URL]
+[B]Changelog (Warning:Literally just a list of git commit messages.) :[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
 <!-- If something is broken, it's probably listed here. Probably. -->
