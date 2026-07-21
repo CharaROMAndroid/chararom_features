@@ -43,7 +43,7 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
 
 [SIZE="5"]Download:[/SIZE]
-[B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] (look for files labeled with "<device_codename>")
+[B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] (look for files labeled with "<device_codename>". Alphas and Betas are labeled as pre-releases, so don't forget to check those!)
 [B]Changelog (Warning:Literally just a list of git commit messages.) :[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
