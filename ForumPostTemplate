@@ -26,7 +26,9 @@ So, what can you expect?
 - FONTS! We Atkinson Hyperlegible, Determination, Mercy, OpenDyslexic, and Papyrus included.
 - Boot Animation Changer! Yes, we know, our default boot animation is simple. So, what do we have? 3 other boot animations, including a meowing cat!
 - Flavored remarks. Home Screen and Settings all contain flavored remarks. Whether it be sarcasm, chaos, or quirky references; there's a lot to discover. Just don't get jumpscared by the empty Recents screen...
-- A whole lot more planned! 
+- A whole lot more planned!
+
+We don't include GApps or MicroG by default, nor will we link any GApps or MicroG package. Use what you feel comfortable with.
 [/SIZE]
 
 [SIZE="5"]Features:[/SIZE]
@@ -41,7 +43,7 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 [B]Kernel:[/B] [URL="kernel url"]kernel url[/URL]
 
 [SIZE="5"]Download:[/SIZE]
-[B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] 
+[B]ROM:[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/releases"]https://github.com/chararomandroid/android_vendor_CharaOTA/releases[/URL] (look for files labeled with "<device_codename>")
 [B]Changelog (Warning:Literally just a list of git commit messages.) :[/B] [URL="https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt"]https://github.com/chararomandroid/android_vendor_CharaOTA/<device_codename>.txt[/URL]
 
 [SIZE="5"]Known issues:[/SIZE]
@@ -49,6 +51,7 @@ If you ignore instructions and brick your device, refer back to the disclaimer a
 
 [SIZE="3"]
 [URL="https://github.com/chararomandroid/"]GitHub: CharaROMAndroid[/URL]
-[URL="https://t.me/bunnypaddev"]Telegram: Development Chat[/URL]
+[URL="https://t.me/bunnypaddev"]Telegram: Development Chat.[/URL] Don't be afraid to join to discuss the ROM, but we prefer doing support on XDA.
 [URL="https://crdroid.net/donate"]Support upstream (crDroid)[/URL]
+[URL="https://team.chararom.xyz"]The team![/URL]
 [/SIZE]
