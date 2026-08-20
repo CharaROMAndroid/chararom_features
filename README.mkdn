@@ -1,13 +1,13 @@
 
-* Below features are as of 14 July, 2026 in the CharaROM Android source.
+* Below features are as of 19 August, 2026 in the CharaROM Android source.
 * Few of them are specific to certain devices - e.g. button settings, fingerprint vibration toggle, etc.
 Translations
 ----------
-We currently accept translations only via Telegram, since we don't have the infrastructure to accept it elsewhere. Most of our translations, however, come from crDroid.
+We currently accept translations only via Telegram or via PR, since we don't have the infrastructure to accept it elsewhere. Most of our translations, however, come from crDroid.
 
 General
 ----------
-* Always latest Android 16.x
+* Always running the latest Android 16.x SPL
 * CharaROM Tweaks - Our own chamber of chaos with below customization settings
 * OTA for officially supported devices
 * CharaROM Hub - Revamped and customized launcher with Google Now integration
@@ -104,6 +104,7 @@ Buttons
     * Lockdown toggle
     * Emergency toggle
     * Device controls toggle
+    * Panic/Ripple Button toggle
   * Advanced reboot options
     * Advanced restart toggle
     * Secured lockscreen toggle
@@ -182,7 +183,7 @@ Sound
 Misc
 ----------
 * Game space
-* Built-in Play Integrity Fix and TrickyStore
+* Built-in Play Integrity Fix and TrickyStore (building upon crDroid's using the latest FOSS modules as reference)
 * Unlock higher FPS in game toggle
 * Unlimited Google photos toggle
 * Netflix spoof (used for HDR)
@@ -193,6 +194,13 @@ Misc
   * Sensor blok app list
 * Pocket detection - prevents device interaction when inside pocket
 * Floating rotate button toggle
+
+Additional Features
+----------
+* Autoreboot (from CalyxOS)
+* Duress PIN/Password (reimplemented based on GrapheneOS' code)
+* NTP Server Changer (a CharaROM first!)
+* Systemwide block on reading adb/Developer Options being enabled
 
 About CharaROM
 ----------
